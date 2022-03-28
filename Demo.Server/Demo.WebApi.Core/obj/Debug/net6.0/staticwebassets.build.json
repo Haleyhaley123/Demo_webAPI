@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AK1G/aF00/4yf+K4FvwRxECczaOQuJxEzbWbYLktRtA=",
+  "Source": "Demo.WebApi.Core",
+  "BasePath": "_content/Demo.WebApi.Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
